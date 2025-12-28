@@ -75,6 +75,4 @@ LinkedIn profile:
 
 ---
 
-## 📌 Note
-All projects are developed for learning, experimentation, and skill enhancement
-purposes as part of academic and training programs.
+
